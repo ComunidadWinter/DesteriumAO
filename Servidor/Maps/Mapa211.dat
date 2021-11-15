@@ -1,0 +1,20 @@
+[MAPA210]
+Name=Torneos automáticos
+MusicNum=0
+MagiaSinefecto=1
+InviSinEfecto=1
+ResuSinEfecto=1
+NoEncriptarMP=0
+Terreno=BOSQUE
+Zona=CIUDAD
+Restringir=No
+BackUp= 0
+Pk=1
+[MAPA211]
+Name=Torneos automáticos
+MagiaSinefecto=0
+InviSinEfecto=True
+ResuSinEfecto=1
+NoEncriptarMP=0
+BackUp= 0
+Pk=1

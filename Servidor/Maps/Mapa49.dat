@@ -1,0 +1,13 @@
+[MAPA49]
+MagiaSinefecto=False
+InviSinEfecto=False
+ResuSinEfecto=True
+NoEncriptarMP=0
+BackUp=1
+Pk=0
+Terreno=BOSQUE
+Zona=DUNGEON
+Name=Torneos
+OcultarSinEfecto=0
+InvocarSinEfecto=1
+Restringir=NO
