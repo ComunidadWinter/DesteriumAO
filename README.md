@@ -1,3 +1,7 @@
 # DesteriumAO
 
-![alt text](https://media.discordapp.net/attachments/858933375954714675/930671363700695080/unknown.png?width=525&height=394)
+![alt text](https://i.ibb.co/6HPqb6f/11.png)
+
+![alt text](https://i.ibb.co/9hB3khx/unknown.png)
+
+![alt text](https://i.ibb.co/tKVzjb4/Sin-t-tulo.png)
